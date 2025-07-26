@@ -2,10 +2,6 @@
 
 **LocalSkillHub** is a full-stack skill and service exchange platform that connects individuals within a community. Users can post listings offering services (like music lessons, tutoring, repairs, etc.), browse others' listings, and manage their profiles securely.
 
-## 🚀 Demo
-
-👉 You can see on my Linked In
-
 ---
 
 ## 🧰 Tech Stack
